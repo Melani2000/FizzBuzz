@@ -1,1 +1,8 @@
-FizzBuzz is a simple Java program which can execute for finding whether a number is divisible by five, three or both. First the program asks user to enter a number and if that number is divisible by 5, it will execute the output as Fizz, if it is divisible by 3, output will be Buzz,  if that number can divide by both 5 and 3, the program will execute as FizzBuzz and if the number can't divide by none of from above, the program will print the user entered number again.
+FizzBuzz is a simple Java program which can execute for finding whether a number is divisible by five, three or both. 
+First the program asks user to enter a number and if that number is divisible by 5, it will execute the output as Fizz, 
+if it is divisible by 3, output will be Buzz,  if that number can divide by both 5 and 3, the program will execute as 
+FizzBuzz and if the number can't divide by none of from above, the program will print the user entered number again.
+
+
+
+Author : Melani Prathibha
